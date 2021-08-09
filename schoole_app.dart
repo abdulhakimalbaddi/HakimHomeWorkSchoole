@@ -13,7 +13,7 @@ loop :
 while (true){
 print ('Please Choose your option)');
 print ('A.Add New Student )');
-print ('C.Print Marks )');
+print ('C.Print StudentList )');
 print ('D.DeleteStudent )');
 print ('F.PrintSpecificStudentData )');
 print ('G.Addsubject )');
